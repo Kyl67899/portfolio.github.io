@@ -267,10 +267,10 @@
 	}
 
     document.querySelector(".hire-me").addEventListener("click", function(){
-    	// console.log(this)
     	const sectionIndex=this.getAttribute("data-section-index");
+    	// console.log(this)
 
-    	console.log(sectionIndex);
+    	// console.log(sectionIndex);
 
     	showSection(this);
 

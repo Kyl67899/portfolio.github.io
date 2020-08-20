@@ -283,7 +283,6 @@ input,textarea, select{
 	z-index: 10;
 	border-right: 1px solid #e8dfec;
 	padding: 30px;
-	overflow-y: auto;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -1527,3 +1526,12 @@ body.dark .shadow-dark{
 }
 
 /*responsive*/
+
+/*.open{
+  
+  height: 100px;
+  width: 100px;
+  background: red;
+  color: white;
+  
+}*/
